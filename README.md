@@ -1,4 +1,6 @@
 # Mushroom-Meadows-C-Sharp-Game-
+For convience, all source code, sprites, packages, et cetera can be found via another member's commit for the project: https://github.com/AnnabellemRuckle/MushroonMeadows.git
+
 Developed a half-semester long game containing a 2-D platformer and a variation on “whack-a-mole”. 
 
 Learned how to code in C# and use the Unity platform to single-handily create the mushroom version of “whack-a-mole”, the 3-D rendered houses in the main scene, and the sprites/images for both mini-games. My team and I collaborated and modularized the project. 
