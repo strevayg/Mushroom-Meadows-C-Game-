@@ -1,5 +1,7 @@
 # Mushroom-Meadows-C-Sharp-Game-
-For convience, all source code, sprites, packages, et cetera can be found via another member's commit for the project: https://github.com/AnnabellemRuckle/MushroonMeadows.git
+For convience, the entire project can be found via another member's commit for the project: https://github.com/AnnabellemRuckle/MushroonMeadows.git
+
+My source code and sprites can be found within my repository.
 
 Developed a half-semester long game containing a 2-D platformer and a variation on “whack-a-mole”. 
 Start: September 2023 
