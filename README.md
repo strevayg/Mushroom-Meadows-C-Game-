@@ -4,6 +4,7 @@ For convience, the entire project can be found via another member's commit for t
 My source code and sprites can be found within my repository.
 
 Developed a half-semester long game containing a 2-D platformer and a variation on “whack-a-mole”. 
+
 Start: September 2023 
 Finish: November 2023
 
