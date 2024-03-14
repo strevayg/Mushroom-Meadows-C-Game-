@@ -1,4 +1,4 @@
-# Mushroom-Meadows-C-Sharp-Game-
+# Mushroom Meadows #C Game
 For convience, the entire project can be found via another member's commit for the project: https://github.com/AnnabellemRuckle/MushroonMeadows.git
 
 My source code and sprites can be found within my repository.
